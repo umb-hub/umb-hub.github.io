@@ -4,13 +4,48 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![hello.gif](/assets/img/quby-peace.gif)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm Qu.by (a.k.a Umby) a fantastic bachelor degreed nerd with so much interests:
+
+- 🤓 Nerd since 11 years old
+- 🕮 Manga/Anime lover (oh no now you know my password!)
+- 😍 Love for any programming language
+- 🤯 Math and Cryptography lover
+- 🧑‍💻 Amateur reversering engineer 
+- 🥋 Near to be [Yellow Belt](https://pwn.college) on fantastic pwn.college judo (hacking martial arts)
+- 🤖 AI Enthusiast
+- 🕹️ CTF Player (pwn&cryptografy skills)
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I started to programming since 11 years old in Visual Basic 6, having an happing computer destroyer childhood. Happy experience in programming in different language (VB.NET, C++, PHP, Javascript) in childhood, at 16 years old I started to disassembly x86 executables and reading books about assembly and pwning some games (my hacker side).
+
+During my bachelor degree I improved my hacking and programming skills, and started to love not so classical language such as Python 🐍
+
+### Skill List
+
+Programming Languages:
+
+| Language | Level | Comments |
+| :- | :- | :- |
+| ©️ C | Medium | Standard Library usage and dynamic allocation skills |
+| ➕ C++ | Low | Object-oriented low skills |
+| 👴 Fortran | Very Low | Basic fortran statements |
+| ♨️ Java | Medium | Library usage and Android App development |
+| 📜 Javascript | Medium | Small web-app developer in NodeJS environment |
+| 🐍 Python | Medium | Big love for fast scripting |
+| 🐦 Swift | Low | iOS App development in Apple Course| 
+| 🇻 Visual Basic 6| Low | First programming language to consume RAM memory |
+| 🇧 Visual Basic NET | Medium | Improving visual basic skills in event driven programming |
+
+Assembly Language:
+
+| Language | Level | Comments |
+| :- | :- | :- |
+| 👴 68k Assembly | Medium | Universitary course knowledgment |
+| 💾 x8086 | High | Reverser and pwn skills for x86 executable |
+| 💿 x64 | Medium | Reverser and pwn skills for x64 executable |
+| 💿 ARM | Very Low | Starting training |
