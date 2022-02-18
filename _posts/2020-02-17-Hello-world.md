@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Worldd
+title: Hello World
 subtitle: Helloorld
 gh-repo: umb-hub/umb-hub.github.io
 gh-badge: [star, fork, follow]
