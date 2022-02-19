@@ -9,7 +9,7 @@ tags: [portfolio, project, nabbo, nodejs, Java]
 comments: true
 ---
 
-On 27 November 2020, a new kind idea to explore [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity) World is showed up!
+On 27 November 2020, a new kind idea to explore [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) World is showed up!
 
 ![Nabbo Project](/assets/img/portfolio/nabbo/Nabbo_Cover.png)
 
