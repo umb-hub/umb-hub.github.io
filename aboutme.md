@@ -88,7 +88,6 @@ I get 1st place in [CyberChallenge](https://cyberchallenge.it/) national context
 | 🤯 Cryptography | Private-Key | Medium | Knowledgment of most common private key algorithm (DES/AES) and exploitation of common vulnerabilties such as Bit Flipping and Oracle Padding in CBC Block modes |
 | 🤯 Cryptography | Public-Key RSA | Very High | Knowledgment and exploitation of most vulnerabilties (Coppersmith and LLL's knownledgment) see [here](https://github.com/umb-hub/crypto-notebook/blob/master/Asymmetrical/RSA.ipynb) |
 | 🤯 Cryptography | Public-Key ECC | Low | Starting Training | 
-A.ipynb) |
 | 🤯 Cryptography | Hash | Low | Need training on exploitation techniques | 
 | 🕵️ Osint | Google Dorks | Medium | Standard Google Dork techniques |
 
