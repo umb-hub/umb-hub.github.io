@@ -14,7 +14,8 @@ I'm Qu.by (a.k.a Umby) a fantastic bachelor degreed nerd with so much interests:
 - 🤯 Math and Cryptography lover
 - 🧑‍💻 Amateur reversering engineer 
 - 🥋 Near to be [Yellow Belt](https://pwn.college) on fantastic pwn.college judo (hacking martial arts)
-- 🤖 AI Enthusiast
+- ⚛️ Quantum Computing Enthusiast but not so skilled
+- 🤖 AI Enthusiast but not so skilled
 - 🕹️ CTF Player (pwn&cryptografy skills)
 
 What else do you need?
