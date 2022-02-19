@@ -25,6 +25,8 @@ I started to programming since 11 years old in Visual Basic 6, having an happing
 
 During my bachelor degree I improved my hacking and programming skills, and started to love not so classical language such as Python 🐍
 
+I get 1st place in [CyberChallenge](https://cyberchallenge.it/) national context in individual competition within university context and 12th/31 place in team competition national context in 2011.
+
 ### Skill List
 
 #### Programming Languages:
@@ -56,7 +58,38 @@ During my bachelor degree I improved my hacking and programming skills, and star
 | DBMS | Level | Comments |
 | :- | :- | :- |
 | 🐬 MySQL | Medium | Relation database used in web-app static app |
-| 🦭 MariaDB | Medium | Relation databased used in web-app static app |
+| 🦭 MariaDB | Medium | Relation database used in web-app static app |
 | 🐘 PostgreSQL | Low | Starting training |
 | 🔥 Firebase | Medium | No-Relational database used in Android app or realtime app (NodeJS)  |
 | 🥬 MongoDB | Very Low | Starting training |
+
+
+#### Hacking Techniques
+
+| Context | Techniques | Level | Comments |
+| :- | :- | :- | :- |
+| 🌐 Web | NoSQL Injection | Low | Introduction to NoSQL Injection techniques |
+| 🌐 Web | SQL Injection | High | Most of all SQL injection techniques |
+| 🌐 Web | LFI | Medium | Upload and usage of malicius files |
+| 🌐 Web | RCE | High | Usage of web vulnerability to gain privilaged system access |
+| 🌐 Web | SSRF | Medium | Server-side request forgery (also known as SSRF) to induce the server-side application to make arbitrary HTTP requests (including some request muggling vulnerabilities) |
+| 🌐 Web | XSS | High | Advanced XSS techniques (including bypass CSP nonces) |
+| ⏪ Reversering | Static Debugging | Medium | Static Debugger analysis and various static analysis techniques|
+| ⏪ Reversering | Dynamic Debugging | Medium | Dynamic Debugger anaylis using different breakpoint analysis and knowledgment different techniques |
+| ⏪ Reversering | Symbolic Debiggung | Low | Starting training using ANGR framework in order to analysis executable using symbolic analysis |
+| ⏪ Reversering | Unpacking Techniques | Medium | Knownlegment of packing/virtualization/junk code technqiues and usage automatical scripts | 
+| ⏪ Reversering | NET Reflection | Low | Usage of common decompiler and static analyzer |
+| 🪄 Stegography | All | I hate guessing 💢 | Very Low |
+| 🤜 Pwn | Patching Techniques | Medium | Patching (including hash verification fix and IAT rebuild) or injection techniques |
+| 🤜 Pwn | Buffer Overflow | High | Detect and exploiting buffer overflow vulnerabilities (including Return2LibC techniques) |
+| 🤜 Pwn | Format String | Medium | Detect and exploiting format string vulnerabilities for memory leak |
+| 🤜 Pwn | ROP Chaining | High | Define complex ROP chaining with very limited sizes (10 bytes record) |
+| 🤯 Cryptography | Classical | Medium | Some times it looks so guessing |
+| 🤯 Cryptography | Private-Key | Medium | Knowledgment of most common private key algorithm (DES/AES) and exploitation of common vulnerabilties such as Bit Flipping and Oracle Padding in CBC Block modes |
+| 🤯 Cryptography | Public-Key RSA | Very High | Knowledgment and exploitation of most vulnerabilties (Coppersmith and LLL's knownledgment) see [here](https://github.com/umb-hub/crypto-notebook/blob/master/Asymmetrical/RSA.ipynb) |
+| 🤯 Cryptography | Public-Key ECC | Low | Starting Training | 
+A.ipynb) |
+| 🤯 Cryptography | Hash | Low | Need training on exploitation techniques | 
+| 🕵️ Osint | Google Dorks | Medium | Standard Google Dork techniques |
+
+
