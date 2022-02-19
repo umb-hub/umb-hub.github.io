@@ -3,7 +3,7 @@ layout: post
 title: Rick Sanchez Magic Number
 subtitle: Have you ever meet Rick as teacher ?
 cover-img: /assets/img/repository/challenges/rick_teacher/morty_school.png
-thumbnail-img: /assets/img/portfolio/rick_sunglasses.jpg
+thumbnail-img: /assets/img/portfolio/nabbo/rick_sunglasses.jpg
 share-img: /assets/img/repository/challenges/rick_teacher/morty_school.png
 tags: [nabbo, challenge, c, pwn]
 comments: true
