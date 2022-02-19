@@ -11,7 +11,7 @@ comments: true
 
 Rick C-137 joined in Morty's school and he was so drunk...
 
-![Rick Drunk](/assets/img/repository/challenges/rick_teacher/rick_drunk.jpg)
+![Rick Drunk](/assets/img/repository/challenges/rick_teacher/rick_drunk.jpg){: .mx-auto.d-block :}
 
 He started to delirium about his "megic nambarr" and if Morty does not solve challenge then school will explode with so much neutrin bombs... DAMN I AM SO BORED TO DEFUSE OTHERS NEUTRIN BOMBS!
 
@@ -40,4 +40,4 @@ int main()
 
 Please do not use bruteforce:
 
-![Rick Math](/assets/img/repository/challenges/rick_teacher/rick_math.jpg)
+![Rick Math](/assets/img/repository/challenges/rick_teacher/rick_math.jpg){: .mx-auto.d-block :}
