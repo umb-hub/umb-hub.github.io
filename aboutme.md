@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
----
+subtitle: Hi Qu.By
+cover-img: /assets/img/quby-peace.gif
 
-![hello.gif](/assets/img/quby-peace.gif)
+---
 
 I'm Qu.by (a.k.a Umby) a fantastic bachelor degreed nerd with so much interests:
 
