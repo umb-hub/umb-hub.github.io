@@ -77,10 +77,10 @@ I get 1st place in [CyberChallenge](https://cyberchallenge.it/) national context
 | 🌐 Web | XSS | High | Advanced XSS techniques (including bypass CSP nonces) |
 | ⏪ Reversering | Static Debugging | Medium | Static Debugger analysis and various static analysis techniques|
 | ⏪ Reversering | Dynamic Debugging | Medium | Dynamic Debugger anaylis using different breakpoint analysis and knowledgment different techniques |
-| ⏪ Reversering | Symbolic Debiggung | Low | Starting training using ANGR framework in order to analysis executable using symbolic analysis |
+| ⏪ Reversering | Symbolic Debugging | Low | Starting training using ANGR framework in order to analysis executable using symbolic analysis |
 | ⏪ Reversering | Unpacking Techniques | Medium | Knownlegment of packing/virtualization/junk code technqiues and usage automatical scripts | 
 | ⏪ Reversering | NET Reflection | Low | Usage of common decompiler and static analyzer |
-| 🪄 Stegography | All | Very Low | I hate guessing 💢 
+| 🪄 Stegography | All | Very Low | I hate guessing 💢 |
 | 🤜 Pwn | Patching Techniques | Medium | Patching (including hash verification fix and IAT rebuild) or injection techniques |
 | 🤜 Pwn | Buffer Overflow | High | Detect and exploiting buffer overflow vulnerabilities (including Return2LibC techniques) |
 | 🤜 Pwn | Format String | Medium | Detect and exploiting format string vulnerabilities for memory leak |

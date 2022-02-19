@@ -10,12 +10,12 @@ comments: true
 
 Where is my mind ?
 
-![Crepe](/assets/img/repository/crypto-notebook/whereismymind.png){: .mx-auto.d-block :}
+![Pixies in my mind](/assets/img/repository/crypto-notebook/whereismymind.png){: .mx-auto.d-block :}
 
 When your mind is not so skilled to keep information in memory then a Jupyter Notebook looks a solution 💡
 
 So during university course I started my personal notebook about Crypto World and starting to collect all cool stuff.
 
-![Crepe](/assets/img/quby/quby-nerd.gif){: .mx-auto.d-block :}
+![Nerd Stuff](/assets/img/quby/gifs/quby-nerd.gif){: .mx-auto.d-block :}
 
-Wanna give a look? It's free!
+Wanna give a [look](https://github.com/umb-hub/crypto-notebook)? It's free!
