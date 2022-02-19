@@ -19,6 +19,6 @@ This project is showed up in universitary event for high school open day, about 
 
 ![Nabbo Scoreboard](/assets/img/portfolio/nabbo/Nabbo_Scoreboard.png)
 
-Do you wanna try to solve my challenge ? Check out [Rick's Challenge](/2020-11-26/Rick-Challenge)
+Do you wanna try to solve my challenge ? Check out [Rick's Challenge](/2020-11-26-Rick-Challenge)
 
 ![Rick Challenge](/assets/img/portfolio/nabbo/rick_sunglasses.jpg)
