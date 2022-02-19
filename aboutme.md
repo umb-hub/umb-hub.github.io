@@ -27,7 +27,7 @@ During my bachelor degree I improved my hacking and programming skills, and star
 
 ### Skill List
 
-Programming Languages:
+#### Programming Languages:
 
 | Language | Level | Comments |
 | :- | :- | :- |
@@ -41,11 +41,22 @@ Programming Languages:
 | 🇻 Visual Basic 6| Low | First programming language to consume RAM memory |
 | 🇧 Visual Basic NET | Medium | Improving visual basic skills in event driven programming |
 
-Assembly Language:
+#### Architecture Knownlegment:
 
-| Language | Level | Comments |
+| Architecture | Level | Comments |
 | :- | :- | :- |
-| 👴 68k Assembly | Medium | Universitary course knowledgment |
+| 👴 68k | Medium | Universitary course knowledgment |
 | 💾 x8086 | High | Reverser and pwn skills for x86 executable |
 | 💿 x64 | Medium | Reverser and pwn skills for x64 executable |
 | 💿 ARM | Very Low | Starting training |
+
+
+#### Database Management System Managament:
+
+| DBMS | Level | Comments |
+| :- | :- | :- |
+| 🐬 MySQL | Medium | Relation database used in web-app static app |
+| 🦭 MariaDB | Medium | Relation databased used in web-app static app |
+| 🐘 PostgreSQL | Low | Starting training |
+| 🔥 Firebase | Medium | No-Relational database used in Android app or realtime app (NodeJS)  |
+| 🥬 MongoDB | Very Low | Starting training |
