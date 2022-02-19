@@ -97,5 +97,5 @@ Below there are reported some of most relevant projects:
 
 | Title | Description | Role |
 | :- | :- | :- |
-| [Nabbo Project (Escape Room)](/2020-11-27-Escape-Room/) | University event inteneded to high school's students in order to recruit and test hacking skill within social environment (Habbo Clone)| Co-Responsable and developer |
+| [Nabbo Project (Escape Room)](/2020-11-27-Escape-Room/) | University event inteneded to high school's students in order to recruit and test hacking skill within social environment | Co-Responsable and developer |
 | [Security in IoT Pairing & Authentication protocols, a Threat Model and a Case Study Analysis](http://ceur-ws.org/Vol-2940/paper18.pdf) | Scientific Paper presented in ITASEC21  | Co-writer |
